@@ -2,7 +2,7 @@
 ## the inverse of a matrix
 
 
-## The makeCacheMatrix functin creates a specia
+## The makeCacheMatrix functin creates a special
 ## "matrix" that can cache its inverse
 makeCacheMatrix <- function(x=matrix()){
   i <- NULL
